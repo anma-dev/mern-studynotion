@@ -19,12 +19,12 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
 | [StudyNotion Aim](#studynotion-aim-)        | 📚 Overview of StudyNotion's goals            |
-| [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
+| [Tech Stack](#tech-stack-)             | 💻 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
 | [Architecture Diagram](#architecture-diagram-)   | 🏗️ Diagram illustrating the architecture   |
 | [Schema](#schema-)                  | 🗂 Explanation of data schemas used          |
 | [React Hooks](#react-hooks-)            | 🎣 Overview of React Hooks utilized          |
-| [React Library](#react-library-)         | ⚛️📚 Overview of React Libraries used        |
+| [React Library](#react-library-)         | ⚛️ Overview of React Libraries used        |
 | [Screen Preview](#screen-preview-)         | 🖥️ Screen Preview        |
 
 
@@ -42,7 +42,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
 
 
-## Tech Stack 💻🔧 
+## Tech Stack 💻
 
 ## Frontend 🎨 : 
 <code title="React.js"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
